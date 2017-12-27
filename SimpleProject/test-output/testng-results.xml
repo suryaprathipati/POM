@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13861" started-at="2017-12-20T14:23:03Z" finished-at="2017-12-20T14:23:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13861" started-at="2017-12-20T14:23:03Z" finished-at="2017-12-20T14:23:17Z">
+      <class name="com.samplemavenproject.SimpleProject.TestExecution">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.samplemavenproject.SimpleProject.TestExecution@7f9a81e8]" name="launch" is-config="true" duration-ms="5761" started-at="2017-12-20T19:53:03Z" finished-at="2017-12-20T19:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.samplemavenproject.SimpleProject.TestExecution@7f9a81e8]" name="Login" duration-ms="1160" started-at="2017-12-20T19:53:09Z" finished-at="2017-12-20T19:53:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Home()[pri:0, instance:com.samplemavenproject.SimpleProject.TestExecution@7f9a81e8]" name="Home" duration-ms="5343" started-at="2017-12-20T19:53:10Z" finished-at="2017-12-20T19:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method status="PASS" signature="Employeeedit()[pri:0, instance:com.samplemavenproject.SimpleProject.TestExecution@7f9a81e8]" name="Employeeedit" duration-ms="1416" started-at="2017-12-20T19:53:15Z" finished-at="2017-12-20T19:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employeeedit -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.samplemavenproject.SimpleProject.TestExecution@7f9a81e8]" name="teardown" is-config="true" duration-ms="149" started-at="2017-12-20T19:53:17Z" finished-at="2017-12-20T19:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.samplemavenproject.SimpleProject.TestExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
